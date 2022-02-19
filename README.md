@@ -1,4 +1,14 @@
-# qr_code
+# Qr Code Generator Flutter App
+
+
+# Sample Image
+
+
+<img width="300" src="https://github.com/Justin-roy/qr_code/blob/master/screenshots/1.jpg"> 
+
+
+
+
 
 A new Flutter project.
 
